@@ -3,7 +3,10 @@
 # GITHUB STATUS.
 - ![Profile views](https://gpvc.arturio.dev/thirdza056)
 - [![GitHub followers](https://img.shields.io/github/followers/thirdza056.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/thirdza056?tab=followers)
-#
+<p align="center">
+<a href="https://github.com/thirdza056"><img src="https://badges.pufler.dev/visits/thirdza056/thirdza056?style=social&logo=github"></a>
+</p>
+
 <p align="center">
 <img src="https://github.com/thirdza056/thirdza056/blob/main/assets/line.gif" width=640>
 </p>
@@ -21,10 +24,3 @@
 <img src="https://github.com/thirdza056/thirdza056/blob/main/assets/line.gif" width=640>
 </p>
 
-<p align="center">
-<a href="https://github.com/thirdza056"><img src="https://badges.pufler.dev/visits/thirdza056/thirdza056?style=social&logo=github"></a>
-</p>
-
-<p align="center">
-<img src="https://github.com/thirdza056/thirdza056/blob/main/assets/line.gif" width=640>
-</p>
