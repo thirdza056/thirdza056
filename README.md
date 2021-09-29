@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+<img src="https://github.com/thirdza056/thirdza056/blob/main/assets/line.gif" width=640>
+</p>
+
+<p align="center">
+<a href="https://github.com/thirdza056"><img src="https://badges.pufler.dev/visits/thirdza056/thirdza056?style=social&logo=github"></a>
+</p>
+
+<p align="center">
+<img src="https://github.com/thirdza056/thirdza056/blob/main/assets/line.gif" width=640>
+</p>
