@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/thirdza056"><img src="https://github-readme-streak-stats.herokuapp.com?user=thirdza56&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a>
+<a href="https://github.com/thirdza056"><img src="https://github-readme-streak-stats.herokuapp.com?user=thirdza056&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a>
 </p>
 
 <p align="center">
