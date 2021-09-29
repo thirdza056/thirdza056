@@ -14,6 +14,10 @@
 </p>
 
 <p align="center">
+<a href="https://github.com/thirdza056"><img src="https://github-readme-streak-stats.herokuapp.com?user=thirdza56&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a>
+</p>
+
+<p align="center">
 <img src="https://github.com/thirdza056/thirdza056/blob/main/assets/line.gif" width=640>
 </p>
 
