@@ -4,6 +4,8 @@
 <img src="https://c.tenor.com/zyh9YnJR5P8AAAAC/shintaro-kisaragi-anime-boy.gif" width=640>
 </p>
 
+<a href="https://line.me/R/ti/p/~thirdz11"><img height="36" border="0" alt="Add Friend" src="https://scdn.line-apps.com/n/line_add_friends/btn/en.png"></a>
+
 # GITHUB STATUS.
 - ![Profile views](https://gpvc.arturio.dev/thirdza056)
 - [![GitHub followers](https://img.shields.io/github/followers/thirdza056.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/thirdza056?tab=followers)
